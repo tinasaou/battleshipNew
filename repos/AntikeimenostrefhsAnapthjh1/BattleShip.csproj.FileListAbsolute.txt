@@ -1,0 +1,11 @@
+C:\Users\Anthonio\Desktop\C#\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\Anthonio\Desktop\C#\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\Anthonio\Desktop\C#\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\Anthonio\Desktop\C#\BattleShip\obj\Debug\BattleShip.csproj.AssemblyReference.cache
+C:\Users\Anthonio\Desktop\C#\BattleShip\obj\Debug\BattleShip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anthonio\Desktop\C#\BattleShip\obj\Debug\BattleShip.Form1.resources
+C:\Users\Anthonio\Desktop\C#\BattleShip\obj\Debug\BattleShip.Properties.Resources.resources
+C:\Users\Anthonio\Desktop\C#\BattleShip\obj\Debug\BattleShip.csproj.GenerateResource.cache
+C:\Users\Anthonio\Desktop\C#\BattleShip\obj\Debug\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\Anthonio\Desktop\C#\BattleShip\obj\Debug\BattleShip.exe
+C:\Users\Anthonio\Desktop\C#\BattleShip\obj\Debug\BattleShip.pdb
